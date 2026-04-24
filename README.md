@@ -23,7 +23,7 @@ user: student
 studies: [ "Sistemas (SMX)", "Desarrollo (DAM)" ]
 internships: 
   - sysadmin: "Prácticas de Sistemas completadas ✅"
-  - dev: "Prácticas de Desarrollo completadas ✅"
+  - dev: "Prácticas de Desarrollo en curso"
 os: "GNU/Linux & Windows Server"
 ide: "VS Code / IntelliJ"
 languages: [ "Java", "SQL", "Python", "Kotlin" ]
