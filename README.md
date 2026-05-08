@@ -88,8 +88,6 @@ currently_learning: "OWASP Top 10 · Linux privesc · Kotlin/Compose"
   ▸ Linux privilege escalation
   ▸ Network enumeration & reconnaissance
   ▸ OWASP Top 10
-
-  → profile.hackthebox.com
 ```
 
 Applying my developer background to understand attack surfaces from both an **offensive and defensive** perspective. If I can build it, I want to know how it can be broken.
@@ -110,6 +108,6 @@ Applying my developer background to understand attack surfaces from both an **of
 
 **Open to opportunities · let's connect**
 
-[📧 oscar.dominguez.martinezll@gmail.com](mailto:oscar.dominguez.martinezll@gmail.com) · [LinkedIn](https://linkedin.com/in/oscar-dominguez-martinez-89a2b7349) · [HackTheBox](https://profile.hackthebox.com/)
+[📧 oscar.dominguez.martinezll@gmail.com](mailto:oscar.dominguez.martinezll@gmail.com) · [LinkedIn](https://linkedin.com/in/oscar-dominguez-martinez-89a2b7349)
 
 </div>
